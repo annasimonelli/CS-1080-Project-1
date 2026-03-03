@@ -50,6 +50,15 @@ section {
     margin-bottom: 40px;
 }
 
+/* Footer */
+footer {
+    background-color: rgb(228, 162, 205);
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 40px;
+}
+
 /* Images */
 img {
     max-width: 100%;
