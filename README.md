@@ -10,7 +10,7 @@ I created a multi-page website that provides information about my favorite place
 - All pages are linked through a navigation bar in the header
 
 ## Semantic HTML
-- Use of header, nav, main, section
+- Use of header, nav, main, section, footer
 - Headings, paragraphs, lists, images, tables, videos 
 - Embedded YouTube video on the Mad River Glen page
 - Local video file on the Backcountry page
